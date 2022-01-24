@@ -39,3 +39,4 @@ git commands  :
 * git remote -v
 * git branch -m [Branch]
 * git push -u origin [master]
+* git checkout -b [Branch name]
