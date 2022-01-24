@@ -25,3 +25,17 @@ Fundamentals :
 * Cards
 * Inputs
 * Utility Classes
+
+
+git commands  :
+
+git init : 
+git clone [url]
+git status
+git add .
+git commit -m "MSG"
+git log
+git remote add origin [repo URL]
+git remote -v
+git branch -m [Branch]
+git push -u origin [master]
